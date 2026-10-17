@@ -1,4 +1,4 @@
-# Campus Explorer — Leaflet Tutorial Project
+# Campus Explorer: Leaflet Tutorial Project
 
 A beginner-friendly project demonstrating an interactive map with Leaflet and OpenStreetMap.
 
